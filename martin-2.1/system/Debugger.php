@@ -4,7 +4,7 @@
   /**
    * Debugger class
    * 
-   * @author   Martins Zeltins <martins@melnalapa.lv>
+   * @author   Martins Zeltins
    */
    
 	class Debugger
