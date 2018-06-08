@@ -8,12 +8,12 @@
 			$title = "Example page";
 
 			/*$darbinieki = \Martin\system\Database::$mysql->query('
-				SELECT darbinieks FROM alga
+				SELECT test FROM test
 			')->fetchAll();
 
 
 			$postgres_users = \Martin\system\Database::$pgsql->query('
-				SELECT "user" FROM users
+				SELECT "test" FROM test
 			')->fetchAll();*/
 
 
